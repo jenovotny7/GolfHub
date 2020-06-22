@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GolfHub-gh-pages/static/css/main.18d5bff6.chunk.css",
+    "main.js": "/GolfHub-gh-pages/static/js/main.27202385.chunk.js",
+    "main.js.map": "/GolfHub-gh-pages/static/js/main.27202385.chunk.js.map",
+    "runtime-main.js": "/GolfHub-gh-pages/static/js/runtime-main.fa1ca124.js",
+    "runtime-main.js.map": "/GolfHub-gh-pages/static/js/runtime-main.fa1ca124.js.map",
+    "static/css/2.ee487baf.chunk.css": "/GolfHub-gh-pages/static/css/2.ee487baf.chunk.css",
+    "static/js/2.3217fc6f.chunk.js": "/GolfHub-gh-pages/static/js/2.3217fc6f.chunk.js",
+    "static/js/2.3217fc6f.chunk.js.map": "/GolfHub-gh-pages/static/js/2.3217fc6f.chunk.js.map",
+    "index.html": "/GolfHub-gh-pages/index.html",
+    "precache-manifest.ae2dfe4baf20e76f55eddd3383ffabda.js": "/GolfHub-gh-pages/precache-manifest.ae2dfe4baf20e76f55eddd3383ffabda.js",
+    "service-worker.js": "/GolfHub-gh-pages/service-worker.js",
+    "static/css/2.ee487baf.chunk.css.map": "/GolfHub-gh-pages/static/css/2.ee487baf.chunk.css.map",
+    "static/css/main.18d5bff6.chunk.css.map": "/GolfHub-gh-pages/static/css/main.18d5bff6.chunk.css.map",
+    "static/js/2.3217fc6f.chunk.js.LICENSE.txt": "/GolfHub-gh-pages/static/js/2.3217fc6f.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/GolfHub-gh-pages/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/index.css": "/GolfHub-gh-pages/static/media/open-sans-latin-800italic.c62c3eea.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1ca124.js",
+    "static/css/2.ee487baf.chunk.css",
+    "static/js/2.3217fc6f.chunk.js",
+    "static/css/main.18d5bff6.chunk.css",
+    "static/js/main.27202385.chunk.js"
+  ]
+}
